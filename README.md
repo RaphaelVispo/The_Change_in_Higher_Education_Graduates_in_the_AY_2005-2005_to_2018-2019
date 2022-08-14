@@ -1,4 +1,4 @@
-# The Change in Higher Education Graduates in the A.Y. 2005-2005 to 2018-2019
+# The Change in Higher Education Graduates in the A.Y. 2005-2006 to 2018-2019
 
 ## Installation
 
